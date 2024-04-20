@@ -1,0 +1,7 @@
+.language-gradient {
+    background: linear-gradient(to right, mediumpurple, orangered);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+}
